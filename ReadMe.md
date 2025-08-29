@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Chinmay S N<br>🔭 I’m currently working onautomations related to the stock market.<br><br>🤝 I’m looking to collaborate on Python or web development projects.<br><br>🌱 I’m currently learning how to apply Python in financial analysis and trading automation.<br><br>💬 Ask me about Pine Script strategies, stock market basics, or Python scripting.<br><br>🎯 Fun fact: I once juggled engineering exams, side projects, and self-learning—all in the same week (and survived!).
+👋 Hi, I'm Chinmay S N<br>🔭 I’m currently working on automations related to the stock market.<br><br>🤝 I’m looking to collaborate on Python or web development projects.<br><br>🌱 I’m currently learning how to apply Python in financial analysis and trading automation.<br><br>💬 Ask me about Pine Script strategies, stock market basics, or Python scripting.<br><br>🎯 Fun fact: I once juggled engineering exams, side projects, and self-learning—all in the same week (and survived!).
 
 
 ## 🌐 Socials:
